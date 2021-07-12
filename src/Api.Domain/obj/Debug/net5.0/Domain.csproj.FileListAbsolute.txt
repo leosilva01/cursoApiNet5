@@ -1,0 +1,12 @@
+D:\cursoApiNet5\src\Api.Domain\bin\Debug\net5.0\Domain.deps.json
+D:\cursoApiNet5\src\Api.Domain\bin\Debug\net5.0\Domain.dll
+D:\cursoApiNet5\src\Api.Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\cursoApiNet5\src\Api.Domain\bin\Debug\net5.0\Domain.pdb
+D:\cursoApiNet5\src\Api.Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+D:\cursoApiNet5\src\Api.Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursoApiNet5\src\Api.Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\cursoApiNet5\src\Api.Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\cursoApiNet5\src\Api.Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\cursoApiNet5\src\Api.Domain\obj\Debug\net5.0\Domain.dll
+D:\cursoApiNet5\src\Api.Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\cursoApiNet5\src\Api.Domain\obj\Debug\net5.0\Domain.pdb
